@@ -2,6 +2,8 @@
 
 - 🔭 Hoje trabalho com back-and .NET
 - 🌱 Os assuntos que mais estudo atualmente são boas praticas e Clean Code
+- 📩 Se quiser entrar em contato meu e-mail é: cleidsonestevamdasilva@hotmail.com
+- 👇 Minhas redes sociais estão ali abaixo, só clicar! 😉
 <div align="center">
   <a href="https://github.com/cleidsonestevam">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleidsonestevam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

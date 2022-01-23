@@ -23,5 +23,7 @@
  <a href="https://discord.gg/Estevam#3526" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   </div>
        
-#### 👇 Abaixo estão alguns repositórios seguidos pelo nível de dificuldade que encontrei para implementá-los! 🤓   
 
+    
+### Atualmente estou focado nesse repositório: https://github.com/CleidsonEstevam/API_GERENCIADOR_USUARIOS-Avanced
+#### 👇 Abaixo estão alguns repositórios seguidos pelo nível de dificuldade que encontrei para implementá-los! 🤓   

@@ -24,6 +24,5 @@
   </div>
        
 
-    
-### Atualmente estou focado nesse repositório: https://github.com/CleidsonEstevam/API_GERENCIADOR_USUARIOS-Avanced
+
 #### 👇 Abaixo estão alguns repositórios seguidos pelo nível de dificuldade que encontrei para implementá-los! 🤓   
